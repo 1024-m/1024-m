@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Badge](https://v1-692dnyxtj7g5.runkit.sh/)](https://www.linkedin.com/in/1024-m/)  
-[![Badge](https://v3-46tskawgf7dp.runkit.sh/)](https://huggingface.co/1024m)
-[![Badge](https://v4-69o3lox0p6fp.runkit.sh/)](https://github.com/1024-m)
+[![Badge](https://q5tskhzai0fg.runkit.sh)](https://rkadiyala.com)
 
 <p align="center"><img style="width: 80%" src="./assets/github-display.gif" alt="profile display gif" />
 </p>
