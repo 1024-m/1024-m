@@ -10,6 +10,14 @@
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" /> <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> 
 
+## Skills :
+<p align="center">
+  <a href="https://rkadiyala.com">
+    <img src="https://skillicons.dev/icons?i=autocad,aws,blender,c,css,fastapi,figma,gcp,github,html,js,latex,md,notion,ps,py,r,regex,sklearn,tensorflow,vercel,wordpress&perline=12" />
+  </a>
+</p>
+Couldn't find logos of all:(
+
 <img src="https://github-readme-stats.vercel.app/api?username=1024-m&theme=blue-green" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1024-m&theme=blue-green" />
  
 <p align="center"><img style="width: 160%" src="./assets/github-display.gif" alt="profile display gif" />
