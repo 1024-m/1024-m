@@ -3,7 +3,6 @@
 [![Badge](https://v3-46tskawgf7dp.runkit.sh/)](https://huggingface.co/1024m)
 [![Badge](https://v4-69o3lox0p6fp.runkit.sh/)](https://github.com/1024-m)
 
-
 <p align="center"><img style="width: 80%" src="./assets/github-display.gif" alt="profile display gif" />
 </p>
 
