@@ -3,7 +3,7 @@
  
 <p align="center"><img style="width: 80%" src="./assets/github-display.gif" alt="profile display gif" />
 </p>
-
+ 
 
 
 
