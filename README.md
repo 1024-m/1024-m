@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=1024-m&theme=blue-green" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=1024-m&theme=blue-green" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1024-m&theme=blue-green" />
  
 <p align="center"><img style="width: 80%" src="./assets/github-display.gif" alt="profile display gif" />
 </p>
