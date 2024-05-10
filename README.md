@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=1024-m&theme=blue-green" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1024-m&theme=blue-green" />
  
-<p align="center"><img style="width: 100%" src="./assets/github-display.gif" alt="profile display gif" />
+<p align="center"><img style="width: 160%" src="./assets/github-display.gif" alt="profile display gif" />
 </p>
  
 
