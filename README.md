@@ -32,6 +32,10 @@ Couldn't find logos of all:(
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=10&color=F70000&center=true&random=false&width=435&lines=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0)](https://www.rkadiyala.com)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=10&color=F7E400&center=true&random=false&width=435&lines=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0)](https://www.rkadiyala.com)
+
+<p align="center"><img style="width: 160%" src="./assets/github-display.gif" alt="profile display gif" />
+</p>
+
 -->
 
 ## Weekly routine :      
@@ -39,9 +43,6 @@ Couldn't find logos of all:(
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" /> <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> 
-
-<p align="center"><img style="width: 160%" src="./assets/github-display.gif" alt="profile display gif" />
-</p>
  
 ![](https://github-readme-stats.vercel.app/api?username=1024-m&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1024-m&theme=highcontrast&hide_border=true)
