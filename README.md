@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Badge](https://v1-692dnyxtj7g5.runkit.sh/)](https://git.io/gradientbadge)  
-[![Badge](https://untitled-1evp3k9h90bv.runkit.sh/)](https://git.io/gradientbadge)
+[![Badge](https://untitled-1evp3k9h90bv.runkit.sh/)](https://git.io/gradientbadge)  
+[![Badge](https://v3-46tskawgf7dp.runkit.sh/)](https://git.io/gradientbadge)
 
 <p align="center"><img style="width: 80%" src="./assets/github-display.gif" alt="profile display gif" />
 </p>
