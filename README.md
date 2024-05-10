@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Badge](https://q5tskhzai0fg.runkit.sh)](https://git.io/gradientbadge)
+[![Badge](https://v1-692dnyxtj7g5.runkit.sh/)](https://git.io/gradientbadge)  
+[![Badge](https://untitled-1evp3k9h90bv.runkit.sh/)](https://git.io/gradientbadge)
 <!--
 **1024-m/1024-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
