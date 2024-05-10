@@ -27,6 +27,9 @@ Couldn't find logos of all:(
 ![](https://github-profile-trophy.vercel.app/?username=1024-m&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 [![](https://visitcount.itsvg.in/api?id=1024-m&icon=1&color=11)](https://visitcount.itsvg.in)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=10&color=F70000&center=true&random=false&width=435&lines=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=10&color=F7E400&center=true&random=false&width=435&lines=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0)](https://git.io/typing-svg)
+
 
 <!--
 **1024-m/1024-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
