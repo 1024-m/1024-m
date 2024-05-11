@@ -1,4 +1,5 @@
 ### No Job :( 
+[![](https://visitcount.itsvg.in/api?id=1024-m&icon=1&color=11)](https://visitcount.itsvg.in)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=5000&color=F7E400&center=true&random=false&width=800&height=32&lines=%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B)    
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=5000&color=F7E400&center=true&random=false&width=800&height=32&lines=%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%F0%9F%9F%A5%F0%9F%9F%A5%F0%9F%9F%A5%F0%9F%9F%A5%F0%9F%9F%A5%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B%E2%AC%9B)      
@@ -48,4 +49,3 @@ Couldn't find logos of all:(
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1024-m&theme=highcontrast&hide_border=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=1024-m&theme=radical&no-frame=false&no-bg=false&margin-w=4)      
-[![](https://visitcount.itsvg.in/api?id=1024-m&icon=1&color=11)](https://visitcount.itsvg.in)]
