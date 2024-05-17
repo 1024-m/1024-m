@@ -45,7 +45,8 @@ Couldn't find logos of all:(
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" /> <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /> 
  
-![](https://github-readme-stats.vercel.app/api?username=1024-m&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)
+<!--![](https://github-readme-stats.vercel.app/api?username=1024-m&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1024-m&theme=highcontrast&hide_border=true) 
 
 ![](https://github-profile-trophy.vercel.app/?username=1024-m&theme=radical&no-frame=false&no-bg=false&margin-w=4)      
+-->
